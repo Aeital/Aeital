@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Ayetal.
+🎓 Computer Science student at FAST NUCES, Lahore  
+### 🛠️ Skills & Tools
+- **Languages:** C++, Python  
+- **Automation:** n8n, workflow automation, basic integrations  
+- **Design:** UI/UX fundamentals, Figma
 
 <!--
 **Aeital/Aeital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

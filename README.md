@@ -99,7 +99,7 @@
 <tr>
 <td width="50%">
 
-[Recrure](https://github.com/Aeital)
+[Recure](https://github.com/Aeital)
 AI-powered applicant tracking system that screens and ranks candidates against job descriptions using semantic NLP (Sentence Transformers), multi-format resume parsing with OCR fallback, and Gmail API integration for automated ingestion.
 
 </td>

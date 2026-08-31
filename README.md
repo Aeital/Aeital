@@ -101,13 +101,13 @@
 <tr>
 <td width="50%">
 
-** [RecruitWithMe](https://github.com/Aeital)**
+[Recrure](https://github.com/Aeital)
 AI-powered applicant tracking system that screens and ranks candidates against job descriptions using semantic NLP (Sentence Transformers), multi-format resume parsing with OCR fallback, and Gmail API integration for automated ingestion.
 
 </td>
 <td width="50%">
 
-** [AutoCraft](https://github.com/Aeital)**
+ [AutoCraft](https://github.com/Aeital)
 AI content creation and summarization tool built with React, Vite, Node.js, Express, and an LLM API, with tone selection and dynamic content workflows.
 
 </td>
@@ -115,13 +115,13 @@ AI content creation and summarization tool built with React, Vite, Node.js, Expr
 <tr>
 <td width="50%">
 
-** [Employee Management System](https://github.com/Aeital)**
+[Employee Management System](https://github.com/Aeital)
 Full stack Employee Management System built during a full stack engineering internship at NetSol Technologies — FastAPI + PostgreSQL backend with a React frontend for managing employee records and workflows.
 
 </td>
 <td width="50%">
 
-** [Vintage PhotoBooth](https://github.com/Aeital)**
+[Vintage PhotoBooth](https://github.com/Aeital)
 Desktop app in Python with real-time camera access, custom vintage filters, and a PyQt6 GUI.
 
 </td>

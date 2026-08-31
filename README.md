@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ayetal Hassan 🌸</h1>
 
-<h3 align="center">Computer Science Student · Full Stack MERN + AI Developer</h3>
+<h3 align="center">Computer Science Student.</h3>
 
 <p align="center">
   <b>Full Stack Developer | AI-Powered Applications</b>
